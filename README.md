@@ -1,5 +1,5 @@
 **Portfolio**
-Live Preview - [Click Here](https://salesp07.github.io/)
+Live Preview - [Click Here](https://gulshankapse.github.io/Portfolio/)
 
 <br/>
 <div align="center">
@@ -15,8 +15,8 @@ Live Preview - [Click Here](https://salesp07.github.io/)
 2. Installation: `npm install --legacy-peer-deps`
 
 3. In the project directory, you can run: `npm start`\
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+   Runs the app in the development mode.\
+   Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 # Usage Instructions
 
@@ -29,12 +29,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 1. Name your fork `<your-github-username>.github.io`
 2. Edit the `homepage` property on your `package.json` file
 
-      `"homepage": "http://<your-github-username>.github.io/"`
-
+    `"homepage": "http://<your-github-username>.github.io/"`
 
 3. Deploy the app
 
-   `npm run deploy`
+    `npm run deploy`
 
 ## Contribute
 
